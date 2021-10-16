@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Shyam Murali</h1>
+<h2 align="center">I'm a Student,Tntern and Mentor</h2>
 <h3 align="center">I'm passionate about Cross Platform ,Android, Flutter Development ,Cyber Security and AI,ML challenges</h3>
 
 - 🌱 I’m currently learning **Flutter**
 
 - 👯 I’m looking to collaborate on **any open source project**
 
-- 💬 Ask me about **Flutter**
+- 💬 Ask me about **Flutter, Android**
 
 - 📫 How to reach me **shyammurali23@gmail.com**
 
