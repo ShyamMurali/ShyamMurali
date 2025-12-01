@@ -1,12 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shyam Murali</h1>
 <h2 align="center">I'm a Student,Intern and Mentor</h2>
-<h3 align="center">I'm passionate about Cross Platform ,Android, Flutter Development ,Cyber Security and AI,ML challenges</h3>
-
-- 🌱 I’m currently learning **JS**
-
-- 👯 I’m looking to collaborate on **any open source project**
-
-- 💬 Ask me about **Flutter, Android**
 
 - 📄 Know about my experiences    <a href="https://github.com/ShyamMurali/myresume/raw/main/shyam_murali_resume.pdf" target="blank"><img align="center" src="https://github.com/ShyamMurali/myresume/raw/main/resume.png" alt="maishyamhoon" height="30" width="30" /></a>
 
